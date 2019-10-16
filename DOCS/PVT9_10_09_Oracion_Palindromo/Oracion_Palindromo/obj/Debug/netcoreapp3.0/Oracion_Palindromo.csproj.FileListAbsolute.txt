@@ -1,0 +1,11 @@
+C:\Users\super\source\repos\Oracion_Palindromo\Oracion_Palindromo\bin\Debug\netcoreapp3.0\Oracion_Palindromo.exe
+C:\Users\super\source\repos\Oracion_Palindromo\Oracion_Palindromo\bin\Debug\netcoreapp3.0\Oracion_Palindromo.deps.json
+C:\Users\super\source\repos\Oracion_Palindromo\Oracion_Palindromo\bin\Debug\netcoreapp3.0\Oracion_Palindromo.runtimeconfig.json
+C:\Users\super\source\repos\Oracion_Palindromo\Oracion_Palindromo\bin\Debug\netcoreapp3.0\Oracion_Palindromo.runtimeconfig.dev.json
+C:\Users\super\source\repos\Oracion_Palindromo\Oracion_Palindromo\bin\Debug\netcoreapp3.0\Oracion_Palindromo.dll
+C:\Users\super\source\repos\Oracion_Palindromo\Oracion_Palindromo\bin\Debug\netcoreapp3.0\Oracion_Palindromo.pdb
+C:\Users\super\source\repos\Oracion_Palindromo\Oracion_Palindromo\obj\Debug\netcoreapp3.0\Oracion_Palindromo.csprojAssemblyReference.cache
+C:\Users\super\source\repos\Oracion_Palindromo\Oracion_Palindromo\obj\Debug\netcoreapp3.0\Oracion_Palindromo.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\Oracion_Palindromo\Oracion_Palindromo\obj\Debug\netcoreapp3.0\Oracion_Palindromo.AssemblyInfo.cs
+C:\Users\super\source\repos\Oracion_Palindromo\Oracion_Palindromo\obj\Debug\netcoreapp3.0\Oracion_Palindromo.dll
+C:\Users\super\source\repos\Oracion_Palindromo\Oracion_Palindromo\obj\Debug\netcoreapp3.0\Oracion_Palindromo.pdb
